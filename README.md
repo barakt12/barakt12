@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barak Treves</h1>
+<h1 align="center">Hi, I'm Barak Treves  👋</h1>
 <h3 align="center">I am a Full Stack / Frontend Developer</h3>
 
 - ✨ I am a team player, communication is a top priority.
