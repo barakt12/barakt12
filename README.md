@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Barak Treves  👋</h1>
-<h3 align="center">I am a Full Stack / Frontend Developer</h3>
+<h3 align="center">I am a Full Stack Developer</h3>
 
 - ✨ I am a team player, communication is a top priority.
-
-- 🔭 I’m currently working on **Intervid** - A video interview platform for businesses.
 
 - 👨‍💻 A Wix-like website builder I developed - [Webify](https://webify.cyclic.app/)
 
