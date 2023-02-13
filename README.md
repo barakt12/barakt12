@@ -3,8 +3,6 @@
 
 - ✨ I am a team player, communication is a top priority.
 
-- 👨‍💻 A Wix-like website builder I developed - [Webify](https://webify.cyclic.app/)
-
 - 📫 You can reach me at **baraktreves1@gmail.com**
 
 - ⚡ In my free time I love watching quality movies and video games!
