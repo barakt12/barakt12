@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **baraktreves1@gmail.com**
 
-- ⚡ In my free time I love watching quality movies and video games!
+- ⚡ In my free time I play the electric guitar and video games!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
